@@ -81,7 +81,7 @@ text-align: justify;
 .section#one.text {
   height:auto;
   font-family: 'Times New Roman', Times, serif;
-  font-size:14px;
+  font-size:8px;
   text-indent: 50px;
   grid-column: 3/4;
   float:left;
