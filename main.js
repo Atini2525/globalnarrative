@@ -97,7 +97,7 @@
      // .attr("r", 3)
    .attr("cx", d=> xScale(d.happinessScore))
    .attr("cy", d=> yscale(d.country) )
-   .attr("r",5.5)
+   .attr("r",3)
    .style("fill", "#69b3a2")
    .on("mouseover", function(){return tooltipp.style("visibility", "visible");})
    .on("mousemove", function(d)
