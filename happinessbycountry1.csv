@@ -1,0 +1,187 @@
+code,Definition,id,Country,Regional_indicator,Ladder_score7,country,latitude,longitude,name
+4,Afghanistan,004,AFG,2020,4.18,AFG,,,Afghanistan
+8,Albania,008,ALB,2020,1.58,ALB,,,Albania
+10,No Data,010,No Data,No Data,0,No Data,,,No Data
+12,Algeria,012,DZA,2020,2.94,DZA,,,Algeria
+24,No Data,024,No Data,No Data,0,No Data,,,No Data
+31,Azerbaijan,031,AZE,2020,2.04,AZE,,,Azerbaijan
+36,Australia,036,AUS,2020,1.81,AUS,,,Australia
+40,Austria,040,AUT,2020,1.55,AUT,,,Austria
+48,Bahrain,048,BHR,2020,1.94,BHR,,,Bahrain
+50,Bangladesh,050,BGD,2020,1.99,BGD,,,Bangladesh
+51,Armenia,051,ARM,2020,1.76,ARM,,,Armenia
+56,Belgium,056,BEL,2020,1.72,BEL,,,Belgium
+64,No Data,064,No Data,No Data,0,No Data,,,No Data
+68,Bolivia,068,BOL,2020,2.65,BOL,,,Bolivia
+70,Bosnia,070,Bosnia,2020,2.5,Bosnia,,,Bosnia
+72,Botswana,072,BIH,2020,1.24,BIH,,,Botswana
+76,Brazil,076,BWA,2020,2.8,BWA,,,Brazil
+100,Bulgaria,100,BRA,2020,1.71,BRA,,,Bulgaria
+104,Myanmar,104,MOZ,2020,4.71,MOZ,,,Myanmar
+108,Burundi,108,BFA,2020,5.03,BFA,,,Burundi
+112,Belarus,112,BLR,2020,1.73,BLR,,,Belarus
+116,Cambodia,116,BDI,2020,5.24,BDI,,,Cambodia
+120,Cameroon,120,KHM,2020,2.45,KHM,,,Cameroon
+124,Canada,124,CMR,2020,4.44,CMR,,,Canada
+140,Central African Republic,140,CAN,2020,1.5,CAN,,,Central African Republic
+144,Sri Lanka,144,ESP,2020,1.36,ESP,,,Sri Lanka
+148,Chad,148,CAF,2020,4.57,CAF,,,Chad
+148,No Data,148,No Data,No Data,0,No Data,,,No Data
+152,Chile,152,TCD,2020,5.55,TCD,,,Chile
+156,China,156,CHL,2020,1.61,CHL,,,China
+158,Taiwan Province of China,158,CHE,2020,1.55,CHE,,,Taiwan Province of China
+166,Colombia,166,CHN,2020,1.7,CHN,,,Colombia
+170,Comoros,170,COL,2020,1.77,COL,,,Comoros
+178,Congo (Brazzaville),178,COM,2020,4.07,COM,,,Congo (Brazzaville)
+180,Congo (Kinshasa),180,COG,2020,4.32,COG,,,Congo (Kinshasa)
+188,Costa Rica,188,COD,2020,5.72,COD,,,Costa Rica
+191,Croatia,191,CIV,2020,4.54,CIV,,,Croatia
+192,No Data,192,No Data,No Data,0,No Data,,,No Data
+196,Cyprus,196,HRV,2020,1.42,HRV,,,Cyprus
+203,Czech Republic,203,CYP,2020,1.31,CYP,,,Czech Republic
+204,Benin,204,BEN,2020,4.7,BEN,,,Benin
+208,Denmark,208,CZE,2020,1.67,CZE,,,Denmark
+214,Dominican Republic,214,DNK,2020,1.77,DNK,,,Dominican Republic
+218,Ecuador,218,DOM,2020,2.3,DOM,,,Ecuador
+222,El Salvador,222,EGY,2020,3.24,EGY,,,El Salvador
+226,No Data,226,No Data,No Data,0,No Data,,,No Data
+231,Ethiopia,231,EST,2020,1.61,EST,,,Ethiopia
+232,No Data,232,No Data,No Data,0,No Data,,,No Data
+233,Estonia,233,SLV,2020,2,SLV,,,Estonia
+246,Finland,246,ETH,2020,4.05,ETH,,,Finland
+250,France,250,FIN,2020,1.46,FIN,,,France
+266,Gabon,266,FRA,2020,1.84,FRA,,,Gabon
+268,Georgia,268,GMB,2020,5.09,GMB,,,Georgia
+270,Gambia,270,GAB,2020,3.87,GAB,,,Gambia
+275,Palestinian Territories,275,PAK,2020,3.39,PAK,,,Palestinian Territories
+276,Germany,276,GEO,2020,2.05,GEO,,,Germany
+288,Ghana,288,DEU,2020,1.61,DEU,,,Ghana
+296,GUM,296,No Data,No Data,0,No Data,,,GUM
+300,Greece,300,GHA,2020,3.77,GHA,,,Greece
+304,No Data,304,No Data,No Data,0,No Data,,,No Data
+316,No Data ,316,No Data,No Data,0,No Data,,,No Data 
+320,Guatemala,320,GRC,2020,1.28,GRC,,,Guatemala
+324,No Data,324,No Data,No Data,0,No Data,,,No Data
+328,No Data,328,No Data,No Data,0,No Data,,,No Data
+332,Haiti,332,GIN,2020,4.55,GIN,,,Haiti
+340,Honduras,340,HTI,2020,2.84,HTI,,,Honduras
+344,Hong Kong S.A.R. of China,344,HND,2020,2.39,HND,,,Hong Kong S.A.R. of China
+348,Hungary,348,HKG,2020,1.37,HKG,,,Hungary
+352,Iceland,352,HUN,2020,1.52,HUN,,,Iceland
+356,India,356,ISL,2020,1.73,ISL,,,India
+360,Indonesia,360,IND,2020,2.18,IND,,,Indonesia
+364,Iran,364,IDN,2020,2.27,IDN,,,Iran
+368,Iraq,368,IRN,2020,2.14,IRN,,,Iraq
+372,Ireland,372,IRQ,2020,3.54,IRQ,,,Ireland
+376,Israel,376,IRL,2020,1.81,IRL,,,Israel
+380,Italy,380,ISR,2020,3,ISR,,,Italy
+384,cote d ivoire,384,CRI,2020,1.72,CRI,,,cote d ivoire
+388,Jamaica,388,ITA,2020,1.3,ITA,,,Jamaica
+392,Japan,392,JAM,2020,1.95,JAM,,,Japan
+398,Kazakhstan,398,JOR,2020,2.64,JOR,,,Kazakhstan
+400,Jordan,400,JPN,2020,1.36,JPN,,,Jordan
+404,Kenya,404,KAZ,2020,2.71,KAZ,,,Kenya
+408,No Data,408,No Data,No Data,0,No Data,,,No Data
+410,No Data,410,No Data,No Data,0,No Data,,,No Data
+414,Kuwait,414,KIR,2020,3.49,KIR,,,Kuwait
+417,Kyrgyzstan,417,KWT,2020,2.07,KWT,,,Kyrgyzstan
+418,Laos,418,KGZ,2020,2.91,KGZ,,,Laos
+422,Lebanon,422,LVA,2020,1.74,LVA,,,Lebanon
+426,Lesotho,426,LBN,2020,2.06,LBN,,,Lesotho
+428,Latvia,428,LAO,2020,2.58,LAO,,,Latvia
+430,Liberia,430,LSO,2020,3.07,LSO,,,Liberia
+434,Libya,434,LBR,2020,4.18,LBR,,,Libya
+438,Lithuania,438,LBY,2020,2.18,LBY,,,Lithuania
+440,Luxembourg,440,LTU,2020,1.69,LTU,,,Luxembourg
+450,Madagascar,450,MKD,2020,1.48,MKD,,,Madagascar
+454,Malawi,454,MDG,2020,3.98,MDG,,,Malawi
+458,Malaysia,458,MWI,2020,4.06,MWI,,,Malaysia
+462,Maldives,462,MYS,2020,1.97,MYS,,,Maldives
+466,Mali,466,MDV,2020,1.82,MDV,,,Mali
+470,Malta,470,MLI,2020,5.69,MLI,,,Malta
+478,Mauritania,478,MLT,2020,1.48,MLT,,,Mauritania
+480,Mauritius,480,MRT,2020,4.45,MRT,,,Mauritius
+484,Mexico,484,MUS,2020,1.36,MUS,,,Mexico
+496,Mongolia,496,MDA,2020,1.28,MDA,,,Mongolia
+498,Moldova,498,MEX,2020,2.08,MEX,,,Moldova
+499,Montenegro,499,MNG,2020,2.83,MNG,,,Montenegro
+504,Morocco,504,MNE,2020,1.75,MNE,,,Morocco
+508,Mozambique,508,MAR,2020,2.35,MAR,,,Mozambique
+512,No Data,512,No Data,No Data,0,No Data,,,No Data
+516,Namibia,516,MMR,2020,2.12,MMR,,,Namibia
+520,FSM,520,No Data,No Data,0,No Data,,,FSM
+524,Nepal,524,NAM,2020,3.29,NAM,,,Nepal
+524,No Data,524,No Data,No Data,0,No Data,,,No Data
+528,Netherlands,528,NPL,2020,1.85,NPL,,,Netherlands
+554,New Zealand,554,NLD,2020,1.66,NLD,,,New Zealand
+558,Nicaragua,558,NZL,2020,1.87,NZL,,,Nicaragua
+562,Niger,562,NIC,2020,2.35,NIC,,,Niger
+566,Nigeria,566,NER,2020,6.74,NER,,,Nigeria
+574,North Cyprus,574,NGA,2020,5.25,NGA,,,North Cyprus
+578,Norway,578,PRK,2020,1.89,PRK,,,Norway
+580,NRU,580,No Data,No Data,0,No Data,,,NRU
+583,MHL,583,No Data,No Data,0,No Data,,,MHL
+584,KIR,584,No Data,No Data,0,No Data,,,KIR
+585,MNP,585,No Data,No Data,0,No Data,,,MNP
+586,Pakistan,586,NOR,2020,1.68,NOR,,,Pakistan
+591,Panama,591,PSE,2020,3.49,PSE,,,Panama
+598,No Data,598,No Data,No Data,0,No Data,,,No Data
+600,Paraguay,600,PAN,2020,2.42,PAN,,,Paraguay
+604,Peru,604,PRY,2020,2.38,PRY,,,Peru
+608,Philippines,608,PER,2020,2.21,PER,,,Philippines
+616,Poland,616,PHL,2020,2.49,PHL,,,Poland
+620,Portugal,620,POL,2020,1.45,POL,,,Portugal
+624,No Data,624,No Data,No Data,0,No Data,,,No Data
+642,Romania,642,PRT,2020,1.32,PRT,,,Romania
+643,Russia,643,ROU,2020,1.64,ROU,,,Russia
+646,Rwanda,646,RUS,2020,1.83,RUS,,,Rwanda
+682,Saudi Arabia,682,RWA,2020,3.93,RWA,,,Saudi Arabia
+686,Senegal,686,SAU,2020,2.24,SAU,,,Senegal
+688,Serbia,688,SEN,2020,4.49,SEN,,,Serbia
+694,Sierra Leone,694,SRB,2020,1.44,SRB,,,Sierra Leone
+702,Singapore,702,SLE,2020,4.08,SLE,,,Singapore
+703,Slovakia,703,SGP,2020,1.22,SGP,,,Slovakia
+704,Vietnam,704,VEN,2020,2.23,VEN,,,Vietnam
+705,Slovenia,705,SVK,2020,1.53,SVK,,,Slovenia
+706,No Data,706,No Data,No Data,0,No Data,,,No Data
+710,South Africa,710,SVN,2020,1.62,SVN,,,South Africa
+716,Zimbabwe,716,ZMB,2020,4.5,ZMB,,,Zimbabwe
+724,Spain,724,ZAF,2020,2.36,ZAF,,,Spain
+728,No Data,728,No Data,No Data,0,No Data,,,No Data
+729,No Data,729,No Data,No Data,0,No Data,,,No Data
+732,No Data,732,No Data,No Data,0,No Data,,,No Data
+736,Sudan,736,LKA,2020,2.17,LKA,,,Sudan
+740,No Data,740,No Data,No Data,0,No Data,,,No Data
+748,Swaziland,748,SDN,2020,4.29,SDN,,,Swaziland
+752,Sweden,752,SWZ,2020,2.92,SWZ,,,Sweden
+756,Switzerland,756,SWE,2020,1.84,SWE,,,Switzerland
+760,No Data,760,No Data,No Data,0,No Data,,,No Data
+762,Tajikistan,762,TWN,2020,1.19,TWN,,,Tajikistan
+764,Thailand,764,TZA,2020,4.77,TZA,,,Thailand
+768,Togo,768,THA,2020,1.5,THA,,,Togo
+772,WSM,772,No Data,No Data,0,No Data,,,WSM
+776,TKL,776,No Data,No Data,0,No Data,,,TKL
+780,Trinidad and Tobago,780,TGO,2020,4.2,TGO,,,Trinidad and Tobago
+784,United Arab Emirates,784,UKR,2020,1.43,UKR,,,United Arab Emirates
+788,Tunisia,788,TTO,2020,1.7,TTO,,,Tunisia
+792,Turkey,792,TUN,2020,2.15,TUN,,,Turkey
+795,Turkmenistan,795,TUR,2020,2.04,TUR,,,Turkmenistan
+798,TON,798,No Data,No Data,0,No Data,,,TON
+800,Uganda,800,TKM,2020,2.7,TKM,,,Uganda
+804,Ukraine,804,UGA,2020,4.7,UGA,,,Ukraine
+807,Macedonia,807,LUX,2020,1.42,LUX,,,Macedonia
+818,Egypt,818,ECU,2020,2.38,ECU,,,Egypt
+826,United Kingdom,826,ARE,2020,1.37,ARE,,,United Kingdom
+831,Guinea,831,GTM,2020,2.78,GTM,,,Guinea
+834,Tanzania,834,TJK,2020,3.52,TJK,,,Tanzania
+840,United States,840,GBR,2020,1.74,GBR,,,United States
+854,Burkina Faso,854,BGR,2020,1.59,BGR,,,Burkina Faso
+858,Uruguay,858,USA,2020,1.77,USA,,,Uruguay
+860,Uzbekistan,860,URY,2020,1.95,URY,,,Uzbekistan
+862,Venezuela,862,UZB,2020,2.38,UZB,,,Venezuela
+876,TUV,876,No Data,No Data,0,No Data,,,TUV
+882,No Data,882,No Data,No Data,0,No Data,,,No Data
+887,Yemen,887,VNM,2020,2.05,VNM,,,Yemen
+894,Zambia,894,YEM,2020,3.61,YEM,,,Zambia
+926,Kosovo,926,KEN,2020,3.37,KEN,,,Kosovo
+954,WLF,954,No Data,No Data,0,No Data,,,WLF

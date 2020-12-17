@@ -1,0 +1,314 @@
+html{
+    
+    background: white ;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover; 
+    
+  }
+  
+  
+  body {
+    /* ref: https://fonts.google.com/specimen/Source+Sans+Pro?selection.family=Source+Sans+Pro */
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 1em 3em;
+  }
+  
+  .dot {
+    cursor: grab;
+  }
+  h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+     text-align: center;
+     margin-top: 1cm;
+   }
+   h2{
+     font-family: 'Times New Roman', Times, serif;
+   
+     color: black;
+     margin-top: 0cm;
+     text-align: center;
+   }
+  .dot:hover {
+    fill: orange;
+  }
+  
+  .axis-label {
+    font-size: 14px;
+    fill: black;
+    text-anchor: middle;
+  }
+ 
+  
+  div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+  }
+  div.tooltip1 {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+  }
+  .section {
+background-color:white;
+margin:5%;
+height:auto;
+font-family: 'Times New Roman', Times, serif;
+font-size:25px;
+text-align: justify;
+}
+.section#one {
+  display:grid;
+  grid-column-gap: 10px;
+  grid-template-columns:50% 50% ;
+}
+.section#one.text {
+  height:auto;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:14px;
+  text-indent: 50px;
+  grid-column: 3/4;
+  float:left;
+ 
+  text-align:center;
+}
+.section#one.graph {
+  float:right;
+  position:absolute;
+  right: 70%;
+  grid-column:3/4;
+ 
+}
+.section#two {
+  display:grid;
+  grid-column-gap: 10px;
+  grid-template-columns:50% 50% ;
+}
+.section#two.text {
+  height:auto;
+  grid-column: 3/4;
+  float:left;
+  text-align:center;
+  text-align: justify;
+}
+.section#two.graph2 {
+  float:right;
+  position:absolute;
+  right: 70%;
+  grid-column:3/4;
+ 
+}
+.section#three {
+  display:grid;
+  grid-column-gap: 10px;
+  grid-template-columns:50% 50% ;
+}
+.section#three.text {
+  grid-template-columns:100% ;
+
+  grid-column-gap: 10px;
+  grid-column: 4/4;
+  float:center;
+}
+.section#three.graph3 {
+  height:auto;
+  grid-column: 3/4;
+  left: 50%;
+  float:left;
+}
+.section#three.graph4 {
+  
+  height:auto;
+  grid-column: 3/4;
+  left: 50%;
+  float:right;
+ 
+}
+.section#five {
+  display:grid;
+  grid-column-gap: 10px;
+  grid-template-columns:50% 50% ;
+}
+.section#five.text {
+  height:auto;
+  grid-column: 3/4;
+  left: 50%;
+ 
+}
+.section#five.graph5 {
+  height:auto;
+  grid-column: 3/4;
+ 
+}
+.section#four {
+  display:grid;
+  grid-column-gap: 10px;
+  grid-template-columns:5% 70% 25% ;
+}
+.section#four.text {
+  height:auto;
+  grid-column: 1/4;
+  
+ 
+}
+.section#four.label {
+ 
+  color: black;
+}
+.section#four.graph6 {
+
+  position:left;
+ 
+  grid-row: 2/4;
+ 
+}
+.section#four.select{
+
+  float :left;
+  grid-row:  10px;
+ 
+}
+.section#five.graph6 {
+  float:center;
+  position:absolute;
+ 
+  grid-column:3/4;
+ 
+}
+
+/*  #d3-container-2{
+    
+    float: right;
+}
+
+#d3-container-3{
+    
+    float:left;
+}*/
+/*#map{
+    
+  float: right;
+}
+
+#mapp{
+  
+  float:left;
+}*/
+#d3-container{
+  float:center; 
+}
+/*#dropdown{
+  position: relative;
+  height: 60px;
+  top: 1500px;
+}
+#droptext{
+  top: 1000px;
+}*/
+.d3-tip {
+  box-sizing: border-box;
+  position: absolute;			
+  text-align: center;		
+  display: inline;
+  background: rgba(235, 242, 243, 0.8);
+
+  width: 120px;					
+  height: 60px;					
+  padding: 2px;				
+  font: 16px sans-serif;
+  font-weight: bold;		
+  color: rgba(5, 115, 158, 0.829);
+  border: 0px;		
+  border-radius: 8px;			
+  pointer-events: none;
+}
+.d3-tip7 {
+  box-sizing: border-box;
+  position: absolute;			
+  text-align: center;		
+  display: inline;
+  background: rgba(235, 242, 243, 0.8);
+
+  width: 120px;					
+  height: 60px;					
+  padding: 2px;				
+  font: 16px sans-serif;
+  font-weight: bold;		
+  color: rgba(5, 115, 158, 0.829);
+  border: 0px;		
+  border-radius: 8px;			
+  pointer-events: none;
+}
+
+.legendLinear text {
+  fill: rgba(44, 115, 143, 0.829);;
+  font: 16px sans-serif;
+  font-weight: bold;		
+
+}
+
+div.tooltip3 {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+div.tooltip4 {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+div.tooltip11 {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+div.tooltipp {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}

@@ -1,0 +1,111 @@
+country1,Code,year1,estimate_Happiness1,Entity,Code,Years,EstimateFertility1
+Afghanistan,AFG,2010,4.42,Afghanistan,AFG,2010,5.98
+Afghanistan,AFG,2011,4.76,Afghanistan,AFG,2011,5.77
+Afghanistan,AFG,2012,3.83,Afghanistan,AFG,2012,5.56
+Afghanistan,AFG,2013,3.78,Afghanistan,AFG,2013,5.36
+Afghanistan,AFG,2014,3.57,Afghanistan,AFG,2014,5.16
+Afghanistan,AFG,2015,3.13,Afghanistan,AFG,2015,4.98
+Afghanistan,AFG,2016,3.98,Afghanistan,AFG,2016,4.81
+Afghanistan,AFG,2017,4.22,Afghanistan,AFG,2017,4.63
+Afghanistan,AFG,2018,2.66,Afghanistan,AFG,2018,4.47
+Afghanistan,AFG,2019,2.69,Afghanistan,AFG,2019,4.32
+Afghanistan,AFG,2020,3.22,Afghanistan,AFG,2020,4.18
+Albania,ALB,2010,5.49,Albania,ALB,2010,1.66
+Albania,ALB,2011,5.27,Albania,ALB,2011,1.67
+Albania,ALB,2012,5.87,Albania,ALB,2012,1.68
+Albania,ALB,2013,5.51,Albania,ALB,2013,1.69
+Albania,ALB,2014,4.55,Albania,ALB,2014,1.69
+Albania,ALB,2015,4.81,Albania,ALB,2015,1.68
+Albania,ALB,2016,4.61,Albania,ALB,2016,1.66
+Albania,ALB,2017,4.51,Albania,ALB,2017,1.64
+Albania,ALB,2018,4.64,Albania,ALB,2018,1.62
+Albania,ALB,2019,5.01,Albania,ALB,2019,1.61
+Albania,ALB,2020,4.72,Albania,ALB,2020,1.58
+Algeria,DZA,2010,5.46,Algeria,DZA,2010,2.86
+Algeria,DZA,2011,5.32,Algeria,DZA,2011,2.91
+Algeria,DZA,2012,5.61,Algeria,DZA,2012,2.95
+Algeria,DZA,2013,6.35,Algeria,DZA,2013,2.99
+Algeria,DZA,2014,5.34,Algeria,DZA,2014,3.02
+Algeria,DZA,2015,5.25,Algeria,DZA,2015,3.04
+Algeria,DZA,2016,5.04,Algeria,DZA,2016,3.05
+Algeria,DZA,2017,5.04,Algeria,DZA,2017,3.05
+Algeria,DZA,2018,5.04,Algeria,DZA,2018,3.02
+Algeria,DZA,2019,5.04,Algeria,DZA,2019,2.99
+Algeria,DZA,2020,5.21,Algeria,DZA,2020,2.94
+Argentina,ARG,2010,6.42,Argentina,ARG,2010,2.35
+Argentina,ARG,2011,6.44,Argentina,ARG,2011,2.34
+Argentina,ARG,2012,6.78,Argentina,ARG,2012,2.33
+Argentina,ARG,2013,6.47,Argentina,ARG,2013,2.32
+Argentina,ARG,2014,6.58,Argentina,ARG,2014,2.31
+Argentina,ARG,2015,6.67,Argentina,ARG,2015,2.31
+Argentina,ARG,2016,6.70,Argentina,ARG,2016,2.29
+Argentina,ARG,2017,6.43,Argentina,ARG,2017,2.28
+Argentina,ARG,2018,6.04,Argentina,ARG,2018,2.26
+Argentina,ARG,2019,5.79,Argentina,ARG,2019,2.25
+Argentina,ARG,2020,6.09,Argentina,ARG,2020,2.23
+Finland,FIN,2010,7.39,Finland,FIN,2010,1.83
+Finland,FIN,2011,7.35,Finland,FIN,2011,1.81
+Finland,FIN,2012,7.42,Finland,FIN,2012,1.78
+Finland,FIN,2013,7.44,Finland,FIN,2013,1.74
+Finland,FIN,2014,7.38,Finland,FIN,2014,1.70
+Finland,FIN,2015,7.45,Finland,FIN,2015,1.65
+Finland,FIN,2016,7.66,Finland,FIN,2016,1.61
+Finland,FIN,2017,7.79,Finland,FIN,2017,1.56
+Finland,FIN,2018,7.86,Finland,FIN,2018,1.52
+Finland,FIN,2019,7.86,Finland,FIN,2019,1.48
+Finland,FIN,2020,7.86,Finland,FIN,2020,1.46
+France,FRA,2010,6.80,France,FRA,2010,2.00
+France,FRA,2011,6.96,France,FRA,2011,1.99
+France,FRA,2012,6.65,France,FRA,2012,1.98
+France,FRA,2013,6.67,France,FRA,2013,1.96
+France,FRA,2014,6.47,France,FRA,2014,1.94
+France,FRA,2015,6.36,France,FRA,2015,1.92
+France,FRA,2016,6.48,France,FRA,2016,1.89
+France,FRA,2017,6.64,France,FRA,2017,1.87
+France,FRA,2018,6.67,France,FRA,2018,1.86
+France,FRA,2019,6.67,France,FRA,2019,1.85
+France,FRA,2020,6.67,France,FRA,2020,1.84
+Niger,NER,2010,4.10,Niger,NER,2010,7.47
+Niger,NER,2011,4.56,Niger,NER,2011,7.43
+Niger,NER,2012,3.80,Niger,NER,2012,7.38
+Niger,NER,2013,3.72,Niger,NER,2013,7.31
+Niger,NER,2014,4.18,Niger,NER,2014,7.25
+Niger,NER,2015,3.67,Niger,NER,2015,7.17
+Niger,NER,2016,4.23,Niger,NER,2016,7.09
+Niger,NER,2017,4.62,Niger,NER,2017,7.00
+Niger,NER,2018,5.16,Niger,NER,2018,6.91
+Niger,NER,2019,4.62,Niger,NER,2019,6.82
+Niger,NER,2020,4.62,Niger,NER,2020,6.74
+United Arab Emirates,ARE,2010,7.10,United Arab Emirates,ARE,2010,1.82
+United Arab Emirates,ARE,2011,7.12,United Arab Emirates,ARE,2011,1.76
+United Arab Emirates,ARE,2012,7.22,United Arab Emirates,ARE,2012,1.71
+United Arab Emirates,ARE,2013,6.62,United Arab Emirates,ARE,2013,1.65
+United Arab Emirates,ARE,2014,6.54,United Arab Emirates,ARE,2014,1.60
+United Arab Emirates,ARE,2015,6.57,United Arab Emirates,ARE,2015,1.54
+United Arab Emirates,ARE,2016,6.83,United Arab Emirates,ARE,2016,1.49
+United Arab Emirates,ARE,2017,7.04,United Arab Emirates,ARE,2017,1.45
+United Arab Emirates,ARE,2018,6.60,United Arab Emirates,ARE,2018,1.41
+United Arab Emirates,ARE,2019,6.60,United Arab Emirates,ARE,2019,1.39
+United Arab Emirates,ARE,2020,6.60,United Arab Emirates,ARE,2020,1.37
+United Kingdom,GBR,2010,6.99,United Kingdom,GBR,2010,1.89
+United Kingdom,GBR,2011,6.91,United Kingdom,GBR,2011,1.88
+United Kingdom,GBR,2012,7.03,United Kingdom,GBR,2012,1.87
+United Kingdom,GBR,2013,6.87,United Kingdom,GBR,2013,1.85
+United Kingdom,GBR,2014,6.88,United Kingdom,GBR,2014,1.83
+United Kingdom,GBR,2015,6.92,United Kingdom,GBR,2015,1.81
+United Kingdom,GBR,2016,6.76,United Kingdom,GBR,2016,1.79
+United Kingdom,GBR,2017,6.52,United Kingdom,GBR,2017,1.77
+United Kingdom,GBR,2018,6.82,United Kingdom,GBR,2018,1.76
+United Kingdom,GBR,2019,7.10,United Kingdom,GBR,2019,1.75
+United Kingdom,GBR,2020,7.23,United Kingdom,GBR,2020,1.74
+United States,USA,2010,7.28,United States,USA,2010,1.97
+United States,USA,2011,7.16,United States,USA,2011,1.94
+United States,USA,2012,7.16,United States,USA,2012,1.90
+United States,USA,2013,7.12,United States,USA,2013,1.87
+United States,USA,2014,7.03,United States,USA,2014,1.84
+United States,USA,2015,7.25,United States,USA,2015,1.81
+United States,USA,2016,7.15,United States,USA,2016,1.79
+United States,USA,2017,6.86,United States,USA,2017,1.78
+United States,USA,2018,6.80,United States,USA,2018,1.78
+United States,USA,2019,6.99,United States,USA,2019,1.77
+United States,USA,2020,6.93,United States,USA,2020,1.77

@@ -1,0 +1,64 @@
+country,Code,happinessScore
+Central African Republic,CAF,3.083
+Tanzania,TZA,3.231
+Rwanda,RWA,3.334
+Yemen,YEM,3.38
+Malawi,MWI,3.41
+Syria,SYR,3.462
+Botswana,BWA,3.488
+Haiti,HTI,3.597
+Zimbabwe,ZWE,3.663
+Burundi,BDI,3.775
+Lesotho,LSO,3.802
+Madagascar,MDG,3.933
+Comoros,COM,3.973
+Liberia,LBR,3.975
+India,IND,4.015
+Togo,TGO,4.085
+Zambia,ZMB,4.107
+Sudan,SDN,4.138
+Egypt,EGY,4.166
+Chad,TCD,4.35
+Mali,MLI,4.39
+DR Congo,COD,4.418
+Iraq,IRQ,4.437
+Niger,NER,4.628
+Somalia,SOM,4.668
+Palestine,PSE,4.696
+China,CHN,5.191
+Lebanon,LBN,5.197
+Morocco,MAR,5.208
+Algeria,DZA,5.211
+Nigeria,NGA,5.265
+Greece,GRC,5.287
+Turkey,TUR,5.373
+Bosnia and Herzegovina,BIH,5.386
+Hong Kong,HKG,5.43
+Moldova,MDA,5.529
+Philippines,PHL,5.631
+Pakistan,PAK,5.653
+Portugal,PRT,5.693
+Japan,JPN,5.886
+Kuwait,KWT,6.021
+Cyprus,CYP,6.046
+Italy,ITA,6.223
+Singapore,SGP,6.262
+Qatar,QAT,6.374
+Taiwan,TWN,6.446
+Mexico,MEX,6.595
+United Arab Emirates,ARE,6.825
+Czech Republic,CZE,6.852
+United States,USA,6.892
+Belgium,BEL,6.923
+Germany,DEU,6.985
+United Kingdom,GBR,7.054
+Austria,AUT,7.246
+Canada,CAN,7.278
+New Zealand,NZL,7.307
+Sweden,SWE,7.343
+Switzerland,CHE,7.48
+Netherlands,NLD,7.488
+Iceland,ISL,7.494
+Norway,NOR,7.554
+Denmark,DNK,7.6
+Finland,FIN,7.769

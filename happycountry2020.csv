@@ -1,0 +1,64 @@
+country,Code,happinessScore,pop2020,Entity,Code,Year,Estimate2010,country,code,year,Estimate2020,country,Code,happinessScore
+Central African Republic,CAF,3.083,4829.767,Central African Republic,CAF,2010,5.215,Central African Republic,CAF,2020,4.568,Central African Republic,CAF,3.083
+Tanzania,TZA,3.231,8654.622,Tanzania,TZA,2010,5.427,Tanzania,TZA,2020,4.773,Tanzania,TZA,3.231
+Rwanda,RWA,3.334,19237.691,Rwanda,RWA,2010,4.52,Rwanda,RWA,2020,3.926,Rwanda,RWA,3.334
+Yemen,YEM,3.38,3473.73,Yemen,YEM,2010,4.674,Yemen,YEM,2020,3.614,Yemen,YEM,3.38
+Malawi,MWI,3.41,27691.018,Malawi,MWI,2010,5.332,Malawi,MWI,2020,4.055,Malawi,MWI,3.41
+Syria,SYR,3.462,21413.249,Syria,SYR,2010,3.404,Syria,SYR,2020,2.734,Syria,SYR,3.462
+Botswana,BWA,3.488,2351.627,Botswana,BWA,2010,3.022,Botswana,BWA,2020,2.796,Botswana,BWA,3.488
+Haiti,HTI,3.597,11402.528,Haiti,HTI,2010,3.427,Haiti,HTI,2020,2.842,Haiti,HTI,3.597
+Zimbabwe,ZWE,3.663,28435.94,Zimbabwe,ZWE,2010,4.034,Zimbabwe,ZWE,2020,3.46,Zimbabwe,ZWE,3.663
+Burundi,BDI,3.775,11890.784,Burundi,BDI,2010,6.179,Burundi,BDI,2020,5.237,Burundi,BDI,3.775
+Lesotho,LSO,3.802,6825.445,Lesotho,LSO,2010,3.302,Lesotho,LSO,2020,3.07,Lesotho,LSO,3.802
+Madagascar,MDG,3.933,2083.374,Madagascar,MDG,2010,4.603,Madagascar,MDG,2020,3.976,Madagascar,MDG,3.933
+Comoros,COM,3.973,869.601,Comoros,COM,2010,4.754,Comoros,COM,2020,4.073,Comoros,COM,3.973
+Liberia,LBR,3.975,2142.249,Liberia,LBR,2010,4.971,Liberia,LBR,2020,4.183,Liberia,LBR,3.975
+India,IND,4.015,1380004.385,India,IND,2010,2.581,India,IND,2020,2.184,India,IND,4.015
+Togo,TGO,4.085,23816.775,Togo,TGO,2010,4.868,Togo,TGO,2020,4.199,Togo,TGO,4.085
+Zambia,ZMB,4.107,33469.203,Zambia,ZMB,2010,5.415,Zambia,ZMB,2020,4.496,Zambia,ZMB,4.107
+Sudan,SDN,4.138672829,4.138672829,Sudan,SDN,2010,4.876,Sudan,SDN,2020,4.289,Sudan,SDN,4.138672829
+Egypt,EGY,4.166,102334.404,Egypt,EGY,2010,3.233,Egypt,EGY,2020,3.236,Egypt,EGY,4.166
+Chad,TCD,4.35,16425.864,Chad,TCD,2010,6.592,Chad,TCD,2020,5.553,Chad,TCD,4.35
+Mali,MLI,4.39,32365.999,Mali,MLI,2010,6.547,Mali,MLI,2020,5.693,Mali,MLI,4.39
+DR Congo,COD,4.418,5792.202,Denmark,DNK,2010,1.796,Denmark,DNK,2020,1.768,DR Congo,COD,4.418
+Iraq,IRQ,4.437,40222.493,Iraq,IRQ,2010,4.343,Iraq,IRQ,2020,3.537,Iraq,IRQ,4.437
+Niger,NER,4.628,6624.554,Niger,NER,2010,7.473,Niger,NER,2020,6.735,Niger,NER,4.628
+Somalia,SOM,4.668,5459.642,Somalia,SOM,2010,6.865,Somalia,SOM,2020,5.885,Somalia,SOM,4.668
+Palestine,PSE,4.696,220892.34,Palestine,PSE,2010,4.437,Palestine,PSE,2020,3.489,Palestine,PSE,4.696
+China,CHN,5.191,1439323.776,China,CHN,2010,1.627,China,CHN,2020,1.7,China,CHN,5.191
+Lebanon,LBN,5.197,1886.198,Lebanon,LBN,2010,1.966,Lebanon,LBN,2020,2.06,Lebanon,LBN,5.197
+Morocco,MAR,5.208,628.066,Morocco,MAR,2010,2.567,Morocco,MAR,2020,2.353,Morocco,MAR,5.208
+Algeria,DZA,5.211,43851.044,Algeria,DZA,2010,2.86,Algeria,DZA,2020,2.942,Algeria,DZA,5.211
+Nigeria,NGA,5.265,24206.644,Nigeria,NGA,2010,5.839,Nigeria,NGA,2020,5.248,Nigeria,NGA,5.265
+Greece,GRC,5.287,10423.054,Greece,GRC,2010,1.392,Greece,GRC,2020,1.279,Greece,GRC,5.287
+Turkey,TUR,5.373,69799.978,Turkey,TUR,2010,2.151,Turkey,TUR,2020,2.039,Turkey,TUR,5.373
+Bosnia and Herzegovina,BIH,5.386,3280.819,Bosnia and Herzegovina,BIH,2010,1.315,Bosnia and Herzegovina,BIH,2020,1.243,Bosnia and Herzegovina,BIH,5.386
+Hong Kong,HKG,5.43,7496.981,Hong Kong,HKG,2010,1.117,Hong Kong,HKG,2020,1.374,Hong Kong,HKG,5.43
+Moldova,MDA,5.529,128932.753,Moldova,MDA,2010,1.275,Moldova,MDA,2020,1.278,Moldova,MDA,5.529
+Philippines,PHL,5.631,32971.854,Philippines,PHL,2010,3.18,Philippines,PHL,2020,2.49,Philippines,PHL,5.631
+Pakistan,PAK,5.653,5421.241,Pakistan,PAK,2010,3.951,Pakistan,PAK,2020,3.394,Pakistan,PAK,5.653
+Portugal,PRT,5.693,37846.611,Portugal,PRT,2010,1.321,Portugal,PRT,2020,1.315,Portugal,PRT,5.693
+Japan,JPN,5.886,2961.167,Japan,JPN,2010,1.379,Japan,JPN,2020,1.363,Japan,JPN,5.886
+Kuwait,KWT,6.021,53771.296,Kuwait,KWT,2010,2.234,Kuwait,KWT,2020,2.068,Kuwait,KWT,6.021
+Cyprus,CYP,6.046,1207.359,Cyprus,CYP,2010,1.424,Cyprus,CYP,2020,1.313,Cyprus,CYP,6.046
+Italy,ITA,6.223,60461.826,Italy,ITA,2010,1.445,Italy,ITA,2020,1.304,Italy,ITA,6.223
+Singapore,SGP,6.262,8737.371,Singapore,SGP,2010,1.239,Singapore,SGP,2020,1.223,Singapore,SGP,6.262
+Qatar,QAT,6.374,10196.709,Qatar,QAT,2010,2.07,Qatar,QAT,2020,1.827,Qatar,QAT,6.374
+Taiwan,TWN,6.446,1160.164,Taiwan,TWN,2010,1.054,Taiwan,TWN,2020,1.191,Taiwan,TWN,6.446
+Mexico,MEX,6.595,1271.768,Mexico,MEX,2010,2.34,Mexico,MEX,2020,2.079,Mexico,MEX,6.595
+United Arab Emirates,ARE,6.825,84339.067,United Arab Emirates,ARE,2010,1.819,United Arab Emirates,ARE,2020,1.369,United Arab Emirates,ARE,6.825
+Czech Republic,CZE,6.852,10708.981,Czech Republic,CZE,2010,1.46,Czech Republic,CZE,2020,1.671,Czech Republic,CZE,6.852
+United States,USA,6.892,45741.007,United States,USA,2010,1.973,United States,USA,2020,1.772,United States,USA,6.892
+Belgium,BEL,6.923,11589.623,Belgium,BEL,2010,1.816,Belgium,BEL,2020,1.716,Belgium,BEL,6.923
+Germany,DEU,6.985,83783.942,Germany,DEU,2010,1.384,Germany,DEU,2020,1.61,Germany,DEU,6.985
+United Kingdom,GBR,7.054,6031.2,United Kingdom,GBR,2010,1.887,United Kingdom,GBR,2020,1.743,United Kingdom,GBR,7.054
+Austria,AUT,7.246,9006.398,Austria,AUT,2010,1.419,Austria,AUT,2020,1.554,Austria,AUT,7.246
+Canada,CAN,7.278,37742.154,Canada,CAN,2010,1.633,Canada,CAN,2020,1.499,Canada,CAN,7.278
+New Zealand,NZL,7.307,17134.872,New Zealand,NZL,2010,2.113,New Zealand,NZL,2020,1.866,New Zealand,NZL,7.307
+Sweden,SWE,7.343,11193.725,Sweden,SWE,2010,1.917,Sweden,SWE,2020,1.843,Sweden,SWE,7.343
+Switzerland,CHE,7.48,46754.778,Switzerland,CHE,2010,1.501,Switzerland,CHE,2020,1.546,Switzerland,CHE,7.48
+Netherlands,NLD,7.488,29136.808,Netherlands,NLD,2010,1.745,Netherlands,NLD,2020,1.663,Netherlands,NLD,7.488
+Iceland,ISL,7.494,341.243,Iceland,ISL,2010,2.083,Iceland,ISL,2020,1.73,Iceland,ISL,7.494
+Norway,NOR,7.554,206139.589,Norway,NOR,2010,1.89,Norway,NOR,2020,1.678,Norway,NOR,7.554
+Denmark,DNK,7.6,89561.403,Democratic Republic of Congo,COD,2010,6.544,Democratic Republic of Congo,COD,2020,5.718,Denmark,DNK,7.6
+Finland,FIN,7.769,5540.72,Finland,FIN,2010,1.829,Finland,FIN,2020,1.455,Finland,FIN,7.769

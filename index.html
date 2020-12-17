@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- this is the title that goes in the browser tab name  -->
+    <title>Interactive Data Visualization Tutorial</title>
+
+    <!-- custom font: https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://d3js.org/d3-color.v2.min.js"></script>
+    <script src="https://d3js.org/d3-dispatch.v2.min.js"></script>
+    <script src="https://d3js.org/d3-ease.v2.min.js"></script>
+    <script src="https://d3js.org/d3-interpolate.v2.min.js"></script>
+    <script src="https://d3js.org/d3-selection.v2.min.js"></script>
+    <script src="https://d3js.org/d3-timer.v2.min.js"></script>
+    <script src="https://d3js.org/d3-transition.v2.min.js"></script>
+    <script src="https://d3js.org/d3-drag.v2.min.js"></script>
+    <script src="https://d3js.org/d3-zoom.v2.min.js"></script>
+  </head>
+  <body>
+    <header>
+    
+    <h1> Ditribution of Fertility and happiness rate accross the countries </h1>
+    <h2>Interactive Data Visualization -Narrative Tutorials</h2> 
+    </header>
+
+   
+    <!-- all we need is an element to select -->
+    <p class='section' >  Strong cultural beliefs saturate many countries that children increase the well-being of the person, and especially women. Still, in some countries, these cultural beliefs have been superseded by many other factors like income, freedom of choice of life, health expectancy. Those factors are used to determine the happiness rate, which contributes to a person's well-being. Therefore, this article investigates the fertility/happiness association globally and comparatively.</p>
+
+    <div class='section' id='one' > 
+    <p class='text'>
+Since 2002, the World Happiness Report has detailed the world's happiest countries based on several factors.
+As of 2020, the World Happiness Report determined that Finland is the happiest country in the world.
+The report looks at countries with respect to their performance of six particular variables:
+<br>
+*Gross domestic product per capita<br>
+*Social support<br>
+*Healthy life expectancy<br>
+*Freedom to make your own life choices<br>
+*Generosity of the general population<br>
+*Perceptions of internal and external corruption levels<br>
+By relating all of the countries around the world individually to a made-up country called Dystopia, the researchers were able to configure a baseline to compare all other countries. This enabled the study to base the conclusions on rather than not providing any rock bottom.
+<br>
+The country with the highest score was Finland, which is a European country. Fascinating enough, every single country in the top five spots for happiest countries in the world are European countries. Finland is followed in order by Denmark, Norway, Iceland, and the Netherlands. All six variables are considered when defining a score for each country.
+The lowest-scoring country in the World Happiness Report of 2020 is Afghanistan. With a total ranking of 2.567, Afghanistan has a low life expectancy rate, paired with low gross domestic product rates per capita.
+South Sudan follows Afghanistan with 2.817. South Sudan has a comparable life expectancy and GDP per capita to that of Afghanistan. However, the percentage of generosity within the country is relatively decent. However, where the country fails to excel significantly is personal freedom.
+<br>
+Source: https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world </p> 
+    <div class ='graph' id="mapp" align ='right' > </div>
+  </div>
+  <div class='section' id='two' > 
+    <div class='text'>
+      This entry focuses on the number of births per woman in a population. The most commonly used metric is the Total Fertility Rate (TFR) – or often simply ‘fertility rate’ – which measures the average number of children per woman.<br>
+
+      The global average fertility rate is just below 2.5 children per woman today. <br>
+      The country with the highest score was Nigeria with 6.735, which is a African country,
+       followed in order by Somali, Mali, Iceland, and Congo.
+       <br> The lowest-scoring country in the World fertility Report of 2020 is Taiwan with 1.191, Singapore, Bosnia and Herzegovina, Greece and Italy.
+         </div> 
+  <div class ='graph2' id="map" align ='left' > </div>
+</div>
+  <!--    <div id="map" > </div>-->
+  <div class='section' id='three' > 
+    
+    <div class='graph3' id="d3-container-2"  align ='left' > </div>
+    <div class='graph4' id="d3-container-3" align ='right' > </div>
+  </div>
+  <div class='section' id='six' > 
+    <div class='text' >The two above figures show the fertility and happiness rate displayed on two graphs, one next to the other in two separates charts.
+      Figure 01 is a scatter plot representing the happiness rate (X-Axis) versus countries (Y-Axis). The order arrangement was made, such as the countries with the lowest happiness rate in the bottom, and the countries with the highest happiness rate would be in the top. Figure 02 is a scatter plot that represents the fertility rate versus countries. The countries arrangement's order of figure 02 was made to match the Y-axis in figure 01.  
+      <br>At first glance, we can see that Finland has the most happiness rate country with a 7.76 ( a ranging scale between 0-10, where 10 is the highest possible happiness and life satisfaction). Therefore, Finland is above the average. On the other figure 02, Finland has a low fertility rate, with only 1.2 below 2.5 average fertility rate by women.
+       More we dive into the happiness graph; we see that the happiest countries or those who have a happiness rate above the average are the wealthiest countries. <br>
+      The top 10 happiest countries on the Y-scale displayed in figure 01:  Denmark, Norway, Netherlands, Iceland, Switzerland, Sweden, New Zealand, Canada, United Kingdom, and the United States. 
+      On the fertility graph, most of the yellow plot of these countries are close to the 0 of the Y- scale, which means the lowest fertility rate.
+      <br>
+      Now is time to explore the countries with the lowest happiness rate or happiness rates below the average on the y-scale of Figure01.
+       We can see these countries in this order: Tanzania, Rwanda, Yemen, Malawi, Syria, Botswana, Haiti, Zimbabwe, Burundi, Lesotho, Madagascar, Comoros, Liberia, India, Togo, Zambia, Sudan, Egypt. Chad and Mali.
+      Unfortunately, most of these countries belong to developing countries. In contrast, Looking at these countries' yellow plots, we see an increase in their fertility rate, higher than the average rate of 2.5. The majority of yellow circles are far from 0 and close to the maximum range of X-Scale(fertility rate). 
+      
+    </div>
+  </div>
+  <div class='section' id='five' > 
+    <div class='graph5' id="d3-container-9" align ='right' > </div>
+    <div class='text' >
+      Each dot and circle on the graph represents one country. The dots' vertical position shows average self-reported life satisfaction in the Cantril Ladder (a ranging scale between 0-10, where 10 is the highest possible happiness and life satisfaction). In contrast, the horizontal position shows the fertility rate per country.
+      <br>From the graph,  we notice that the two data are negatively correlated: wealthy countries tend to have higher average happiness, life satisfaction rate, and lower fertility rate than poorer countries
+      as shown on the graph, fertility and happiness tend to go oppositely  within countries
+  
+    One pattern in this graph that there is no linear relationship; the dots are displayed anarchically.
+    <br> Looking at this figure, you can see that no linear relationship does appear between the happiness rate and the fertility rate. That is, as the happiness rate increases, the fertility rate decreases. 
+    Note that on X-scale, Nigeria is the country that has the highest fertility rate while it has the happiness rate of 4.60, lower than the average of 5.00.
+    On Y-scale, Finland has the highest happiness rate with more than 07, which is above the average; on the other hand, Finland has a fertility rate below the average of 2.5 rates by women. 
+  </div>
+</div>
+  <!--   <label id ="droptext"for="dropdown" >Select a Country</label>-->
+  <div class='section' id='four' > 
+    <label  class='droptext' id ="droptext"for="dropdown" >Select a Country<select class="dropdown" id="dropdown" name="dropdown"> </select></label> 
+    
+    <div class='graph6'id="d3-container" align= left> </div>
+    <div class='text' >
+    The line charts represent the changes of both fertility rate and happiness rate for some country with the highest and lowest fertility rate and vice versa the fetility rate  during the last decade. These charts show that they can be reliable to draft serious conclusions and relationship between these two data sets.
+    <br>We notice a significant divergence between the fertility rate and happiness rate for the wealthiest countries and vice versa for the developing countries. 
+  </div>
+</div>
+  <div class='section' id='seven' > 
+    Conclusion:  <br>
+    The first observation that we got from our data is that the countries that have the highest happiness rate tend to have the lowest fertility rates. 
+    The happiness rate is an index value that scales between 1 to 10. The data goes back from 2010 to 2020. Therefore, we won’t draft any hard conclusion on that. A multi-variable analysis with a larger time spectrum is suggested to back-up the findings. 
+    For the countries that have a happiness rate below 5.0, there are no noticeable patterns. 
+    Therefore, we suggest that the fertility rate for these countries would not affect their happiness. 
+    We should include more variables to assess a better happiness rate pattern of these unhappy countries. The main suggestion would be to include other variables in the analysis to provide more explanation. The suggested variables would be freedom, freedom of speech, socio-economic freedom.  
+  </div>
+    <div id="tooltipp"></div>
+  <div id="tooltip11"></div>
+  <div id="tooltip19"></div>
+
+    <p id="reportt"></p>
+    <p id="report11"></p>
+    <p id="report"></p>
+    <p id="report1"></p>
+
+    <!-- this is the line that loads in d3 -->
+    <script src="lib/d3.js"></script>
+    <!-- this is the line that loads in the main js script -->
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="d3-legend.min.js"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js.map"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js "></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+
+    <script src="https://d3js.org/d3-color.v2.min.js"></script>
+    <script src="https://d3js.org/d3-interpolate.v2.min.js"></script>
+    <script src="main5.js"></script>
+    <script src="main6.js"></script>
+    <script src="main.js"></script>
+    <script src="happy.js"></script>
+    <script src="happy1.js"></script>
+
+    <script src="main1.js"></script>
+  
+
+  </body>
+</html> 
+ 
