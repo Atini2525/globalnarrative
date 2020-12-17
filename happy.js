@@ -109,7 +109,7 @@ svg2
  // .attr("cy", d=> yscale(d.Entity) )
   .attr("cx", function(d) { return xScale(d.Estimate20201); })    
   .attr("cy", function(d) { return yscale(d.Entity1); }) 
-  .attr("r", 5.5)
+  .attr("r", 3)
   .style("fill", "#FDD023")
   .on("mouseover", function(){return tooltip11.style("visibility", "visible");})
   .on("mousemove", function(d)
